@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyIntentApp1</string>
+    <string name="txt_pindah_activity">Pindah Activity</string>
+    <string name="txt_pindah_with_data">Pindah dengan Data</string>
+    <string name="txt_pindah_with_object">Pindah dengan Object</string>
+    <string name="txt_panggil_no">Panggil</string>
+    <string name="txt_nama">Nama</string>
+    <string name="txt_umur">Umur</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="url">URL</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_margin_vertical"
+    tools:context=".OptionDialogFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:text="Siapa Pelatih tersukses Manchester United ?"
+        android:layout_marginBottom="@dimen/activity_margin_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup
+        android:id="@+id/rg_option"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rb_saf"
+            android:text="Sir Alex Ferguson"
+            android:layout_marginBottom="@dimen/activity_margin_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:id="@+id/rb_mou"
+            android:text="Jose Mourinho"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="@dimen/activity_margin_vertical"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:id="@+id/rb_lvg"
+            android:text="Louis Van Gaal"
+            android:layout_marginBottom="@dimen/activity_margin_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:id="@+id/rb_moyes"
+            android:text="David Moyes"
+            android:layout_marginBottom="@dimen/activity_margin_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </RadioGroup>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn_close"
+            android:layout_weight="0.5"
+            android:text="Tutup"
+            android:layout_marginRight="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btn_choose"
+            android:text="Pilih"
+            android:layout_weight="0.5"
+            android:layout_marginLeft="4dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>

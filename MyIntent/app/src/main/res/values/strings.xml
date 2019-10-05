@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyIntent</string>
+    <string name="move_with_result">Move With Result</string>
+    <string name="result_from_activity">Result</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">Choose</string>
+    <string name="choose_number">Nomor</string>
+</resources>

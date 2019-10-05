@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">My Friends</string>
+    <string name="TitikDua">:</string>
+    <string name="title_nama">Nama</string>
+    <string name="tempat_tanggal_lahir">Tanggal Lahir</string>
+    <string name="hobi">Hobi</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="akun_dicoding">Ali Asgar Zainal Abidin</string>
+    <string name="email_dicoding">arogan929@gmail.com</string>
+    <string name="about">About</string>
+
+    <string-array name="nama">
+        <item>Ahmad Wahyudi</item>
+        <item>Ali Rahmat Muhammadiyah Nur</item>
+        <item>Muhammad Rum</item>
+        <item>Andi Nurismi Karim</item>
+        <item>Andi Sartika</item>
+        <item>Apriandi</item>
+        <item>Nurul Haerunnisa Putri</item>
+        <item>Nur Azizah</item>
+        <item>Anisa</item>
+        <item>Ali Asgar Zainal Abidin</item>
+    </string-array>
+
+    <string-array name="ttl">
+        <item>Selayar, 19 September 1999</item>
+        <item>Selayar, 21 Juli 1996</item>
+        <item>13 Mei 1999</item>
+        <item>Makassar, 17 November 1998</item>
+        <item>Selayar, 26 Juni 2000</item>
+        <item>Raddae, 31 Maret 1999</item>
+        <item>Sinjai, 10 Februari 1999</item>
+        <item>Selayar, 11 September 1999</item>
+        <item>Selayar, 5 September 2001</item>
+        <item>Selayar, 7 Juni 1999</item>
+    </string-array>
+
+    <string-array name="hobi">
+        <item>Gaming</item>
+        <item>Terjun Payung</item>
+        <item>Main Game</item>
+        <item>Tidur :v</item>
+        <item>Rebahan dan Main Hp</item>
+        <item>Kadang Membaca</item>
+        <item>Sebenarnya main Basket cuma sudah jarang :(</item>
+        <item>Tidur dan Rebahan</item>
+        <item>Bisnis :v</item>
+        <item>Basket</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Udah itu aja</item>
+        <item>Gagah, Berotot, Tinggi 172cm, Rambut Lurus, Kulit Putih</item>
+        <item>Nikah Muda Aamiin</item>
+        <item>imut dan lucu</item>
+        <item>BB 52 ,TINGGI 155 CM, CANTIK BEUD SUMPAH</item>
+        <item>Informasi Tambahan</item>
+        <item>Perempuan Manis</item>
+        <item>Suka menulis </item>
+        <item>Biasa aja</item>
+        <item>Pemimpi</item>
+    </string-array>
+
+    <array name="photo">
+        <item>@drawable/photo_yudhy</item>
+        <item>@drawable/photo_rahmat</item>
+        <item>@drawable/photo_rum</item>
+        <item>@drawable/photo_ismi</item>
+        <item>@drawable/photo_tika</item>
+        <item>@drawable/photo_apriandi</item>
+        <item>@drawable/photo_ica</item>
+        <item>@drawable/photo_azizah</item>
+        <item>@drawable/photo_nisa</item>
+        <item>@drawable/photo_aliasgar</item>
+        <item></item>
+    </array>
+
+</resources>
